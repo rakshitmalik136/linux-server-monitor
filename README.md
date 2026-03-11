@@ -43,7 +43,7 @@ chmod +x monitor.sh
 ```bash
 crontab -e
 ```
-**ADD:** ```bash */5 * * * * /home/user/monitor.sh >> /home/user/health.log```
+**ADD:** ``` */5 * * * * /home/user/monitor.sh >> /home/user/health.log```
 
 ## Future Improvements
 
