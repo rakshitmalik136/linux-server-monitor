@@ -22,3 +22,10 @@ echo ""
 
 echo "Running Services:"
 systemctl list-units --type=service --state=running | head -10
+
+MEM=$(free | awk '/Mem/ {printf("%.2f"), $3/$2 * 100}')
+echo "Memory Usage: $MEM %"
+
+if (( $(echo "$MEM > 80" | bc -l) )); then
+   echo "WARNING: High Memory Usage!"
+fi
