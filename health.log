@@ -78,3 +78,163 @@ Running Services:
   atd.service                                  loaded active running Deferred execution scheduler
   auditd.service                               loaded active running Security Audit Logging Service
   avahi-daemon.service                         loaded active running Avahi mDNS/DNS-SD Stack
+===== SERVER HEALTH REPORT =====
+Date: Wed Mar 11 08:35:00 PM IST 2026
+
+System Uptime:
+ 20:35:00 up  1:24,  3 users,  load average: 0.80, 0.59, 0.47
+
+CPU Usage:
+%Cpu(s):  0.6 us,  0.0 sy,  0.0 ni, 98.9 id,  0.0 wa,  0.6 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.8Gi       4.3Gi       499Mi       7.0Gi        10Gi
+Swap:          8.0Gi          0B       8.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  476G  343G  132G  73% /
+devtmpfs        7.6G     0  7.6G   0% /dev
+tmpfs           7.7G   27M  7.7G   1% /dev/shm
+efivarfs        256K  164K   88K  66% /sys/firmware/efi/efivars
+tmpfs           3.1G  2.9M  3.1G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           7.7G   16M  7.7G   1% /tmp
+/dev/nvme0n1p3  476G  343G  132G  73% /home
+/dev/nvme0n1p2  974M  740M  167M  82% /boot
+/dev/nvme0n1p1  599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+
+Running Services:
+  UNIT                                         LOAD   ACTIVE SUB     DESCRIPTION
+  abrt-journal-core.service                    loaded active running ABRT coredumpctl message creator
+  abrt-oops.service                            loaded active running ABRT kernel log watcher
+  abrt-xorg.service                            loaded active running ABRT Xorg log watcher
+  abrtd.service                                loaded active running ABRT Daemon
+  accounts-daemon.service                      loaded active running Accounts Service
+  alsa-state.service                           loaded active running Manage Sound Card State (restore and store)
+  atd.service                                  loaded active running Deferred execution scheduler
+  auditd.service                               loaded active running Security Audit Logging Service
+  avahi-daemon.service                         loaded active running Avahi mDNS/DNS-SD Stack
+===== SERVER HEALTH REPORT =====
+Date: Wed Mar 11 08:40:00 PM IST 2026
+
+System Uptime:
+ 20:40:00 up  1:29,  3 users,  load average: 0.33, 0.57, 0.50
+
+CPU Usage:
+%Cpu(s):  0.6 us,  0.6 sy,  0.0 ni, 97.8 id,  0.0 wa,  0.6 hi,  0.6 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.8Gi       4.2Gi       477Mi       7.0Gi        10Gi
+Swap:          8.0Gi          0B       8.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  476G  343G  132G  73% /
+devtmpfs        7.6G     0  7.6G   0% /dev
+tmpfs           7.7G   28M  7.7G   1% /dev/shm
+efivarfs        256K  164K   88K  66% /sys/firmware/efi/efivars
+tmpfs           3.1G  2.9M  3.1G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           7.7G   16M  7.7G   1% /tmp
+/dev/nvme0n1p3  476G  343G  132G  73% /home
+/dev/nvme0n1p2  974M  740M  167M  82% /boot
+/dev/nvme0n1p1  599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+
+Running Services:
+  UNIT                                         LOAD   ACTIVE SUB     DESCRIPTION
+  abrt-journal-core.service                    loaded active running ABRT coredumpctl message creator
+  abrt-oops.service                            loaded active running ABRT kernel log watcher
+  abrt-xorg.service                            loaded active running ABRT Xorg log watcher
+  abrtd.service                                loaded active running ABRT Daemon
+  accounts-daemon.service                      loaded active running Accounts Service
+  alsa-state.service                           loaded active running Manage Sound Card State (restore and store)
+  atd.service                                  loaded active running Deferred execution scheduler
+  auditd.service                               loaded active running Security Audit Logging Service
+  avahi-daemon.service                         loaded active running Avahi mDNS/DNS-SD Stack
+===== SERVER HEALTH REPORT =====
+Date: Wed Mar 11 08:45:00 PM IST 2026
+
+System Uptime:
+ 20:45:00 up  1:34,  3 users,  load average: 0.54, 0.49, 0.47
+
+CPU Usage:
+%Cpu(s):  1.1 us,  0.5 sy,  0.0 ni, 97.3 id,  0.0 wa,  1.1 hi,  0.0 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       4.9Gi       4.2Gi       467Mi       7.0Gi        10Gi
+Swap:          8.0Gi          0B       8.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  476G  343G  132G  73% /
+devtmpfs        7.6G     0  7.6G   0% /dev
+tmpfs           7.7G   32M  7.7G   1% /dev/shm
+efivarfs        256K  164K   88K  66% /sys/firmware/efi/efivars
+tmpfs           3.1G  2.8M  3.1G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           7.7G   16M  7.7G   1% /tmp
+/dev/nvme0n1p3  476G  343G  132G  73% /home
+/dev/nvme0n1p2  974M  740M  167M  82% /boot
+/dev/nvme0n1p1  599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+
+Running Services:
+  UNIT                                         LOAD   ACTIVE SUB     DESCRIPTION
+  abrt-journal-core.service                    loaded active running ABRT coredumpctl message creator
+  abrt-oops.service                            loaded active running ABRT kernel log watcher
+  abrt-xorg.service                            loaded active running ABRT Xorg log watcher
+  abrtd.service                                loaded active running ABRT Daemon
+  accounts-daemon.service                      loaded active running Accounts Service
+  alsa-state.service                           loaded active running Manage Sound Card State (restore and store)
+  atd.service                                  loaded active running Deferred execution scheduler
+  auditd.service                               loaded active running Security Audit Logging Service
+  avahi-daemon.service                         loaded active running Avahi mDNS/DNS-SD Stack
+===== SERVER HEALTH REPORT =====
+Date: Wed Mar 11 08:50:00 PM IST 2026
+
+System Uptime:
+ 20:50:00 up  1:39,  3 users,  load average: 0.58, 0.56, 0.50
+
+CPU Usage:
+%Cpu(s):  0.0 us,  0.6 sy,  0.0 ni, 98.3 id,  0.0 wa,  0.6 hi,  0.6 si,  0.0 st 
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       5.1Gi       3.5Gi       490Mi       7.5Gi        10Gi
+Swap:          8.0Gi          0B       8.0Gi
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p3  476G  343G  132G  73% /
+devtmpfs        7.6G     0  7.6G   0% /dev
+tmpfs           7.7G   38M  7.7G   1% /dev/shm
+efivarfs        256K  164K   88K  66% /sys/firmware/efi/efivars
+tmpfs           3.1G  2.8M  3.1G   1% /run
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           7.7G   23M  7.7G   1% /tmp
+/dev/nvme0n1p3  476G  343G  132G  73% /home
+/dev/nvme0n1p2  974M  740M  167M  82% /boot
+/dev/nvme0n1p1  599M   20M  580M   4% /boot/efi
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           1.6G  160K  1.6G   1% /run/user/1000
+
+Running Services:
+  UNIT                                         LOAD   ACTIVE SUB     DESCRIPTION
+  abrt-journal-core.service                    loaded active running ABRT coredumpctl message creator
+  abrt-oops.service                            loaded active running ABRT kernel log watcher
+  abrt-xorg.service                            loaded active running ABRT Xorg log watcher
+  abrtd.service                                loaded active running ABRT Daemon
+  accounts-daemon.service                      loaded active running Accounts Service
+  alsa-state.service                           loaded active running Manage Sound Card State (restore and store)
+  atd.service                                  loaded active running Deferred execution scheduler
+  auditd.service                               loaded active running Security Audit Logging Service
+  avahi-daemon.service                         loaded active running Avahi mDNS/DNS-SD Stack
